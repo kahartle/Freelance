@@ -1,0 +1,9 @@
+*.tmp
+Password\.txt
+.DS_Store
+
+# Temp Office files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.xlk
