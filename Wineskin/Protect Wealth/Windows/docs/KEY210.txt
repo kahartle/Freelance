@@ -1,0 +1,20 @@
+Key text file 2_11
+1.  The name of the Lessor.
+Enter the full name of the person or entity who owns the property.
+2.  The name of the Lessee.
+Enter the full name of the person or entity who is leasing the property.
+3.  The address of the property.
+Enter the complete address of the property you are leasing (street, city, state, zip code)
+4.  The written number of months the lease will cover.
+Enter the written number (e.g., "twelve") of months.
+5.  The numerical number of months the lease will cover.
+Enter the numerical number (e.g., "12") of months.
+6.  The date the lease will become effective.
+
+7.  The date the lease will terminate.
+
+8.  The dollar amount of the monthly lease payment.
+Enter the numerical dollar amount (e.g., "$1200") that the lessee will pay each month.
+9.  The state where the property is located.
+
+10. Enter a detailed description of the property leased under this agreement.

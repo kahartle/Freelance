@@ -1,0 +1,17 @@
+Key text file 3_10
+1.  The principal person who is granting this Springing Durable Power of Attorney;<1x1x3> <1x1x4> <1x1x5>
+Generally your own name. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+2.  The city where the principal person resides.
+
+3.  The state where the principle person resides.  
+
+4.  The name of the principal person's agent.
+This is the person to whom the principal person is granting power of attorney.
+5.  The city where the agent resides.
+
+6.  The state where the agent resides.  
+
+7.  The name of the first witness.
+Assure that the witness signs the document.
+8.  The name of the second witness.
+Assure that the witness signs the document.

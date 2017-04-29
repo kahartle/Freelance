@@ -1,0 +1,21 @@
+2_36A Key text 
+1.  Name of the first Donor. 
+Enter name of the person or entity contributing assets to the CRT.
+2.  Name of the second Donor.
+Enter name of the second person or entity contributing assets to the CRT, if any.
+3.  The name of CRT.
+Enter the name of the CRT as it appears in the trust documents.
+4.  The county where the property is located.
+
+5.  The state where the property is located.
+
+6.  The complete legal description of the property.
+Enter the legal description of the property.  The legal description should appear on your current deed.
+7.  The name of the first witness.
+Assure that the first witness signs the document.
+8.  The name of the second witness.
+Assure that the second witness signs the document.
+9.  Name of the first trustee of the CRT. 
+This is usually the husband.
+10. Name of the second trustee of the CRT.
+This is usually the wife.

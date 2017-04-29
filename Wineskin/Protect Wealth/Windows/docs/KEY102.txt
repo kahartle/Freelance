@@ -1,0 +1,31 @@
+Key 1_2 key text file.
+1.  The name of the Limited Partnership.
+Enter the name of the Limited Partnership as it appears in the Certificate of Limited Partnership.
+2.  The name of the first General Partner.
+Enter the name of the first General Partner as it appears in the Certificate of Limited Partnership.
+3.  The name of the second General Partner.
+Enter the name of the second General Partner as it appears in the Certificate of Limited Partnership. After completion, you may edit this form to list additional general partners named in the Certificate of Limited Partnership if desired. 
+4.  The name of the first Limited Partner.
+Enter the name of the first Limited Partner as it appears in the Certificate of Limited Partnership. 
+5.  The name of the second Limited Partner.
+Enter the name of the second Limited Partner as it appears in the Certificate of Limited Partnership. 
+6.  The name of the third Limited Partner.
+Enter the name of the third Limited Partner as it appears in the Certificate of Limited Partnership. 
+7.  The name of the fourth Limited Partner.
+Enter the name of the fourth Limited Partner as it appears in the Certificate of Limited Partnership.  After completion, you may edit this form to list additional limited partners named in the Certificate of Limited Partnership if desired.
+8.  The state where the Limited Partnership is established.
+Enter the name of the state where you have filed, or will file, your Certificate of Limited Partnership.
+9.  The county where the principal address of the Limited Partnership is located.
+
+10.  The percentage share of capital allocated to the first General Partner.  
+Typically, general partners in a family limited partnership own less than a total of 10% of the partnership.  The rest of the partnership is owned by the limited partners.  The percentages of the general partners and the limited partners must total 100%.
+11.  The percentage share of capital allocated to the second General Partner.  
+Typically, general partners in a family limited partnership own less than a total of 10% of the partnership.  The rest of the partnership is owned by the limited partners.  The percentages of the general partners and the limited partners must total 100%. After completion, you may edit this form to list the percentage shares of additional general partners if desired.
+12.  The percentage share of capital allocated to the first Limited Partner.  
+Enter the percentage share of capital allocated to the first Limited Partner.
+13.  The percentage share of capital allocated to the second Limited Partner.  
+Enter the percentage share of capital allocated to the second Limited Partner.
+14.  The percentage share of capital allocated to the third Limited Partner.  
+Enter the percentage share of capital allocated to the third Limited Partner.
+15.  The percentage share of capital allocated to the fourth Limited Partner.  
+Enter the percentage share of capital allocated to the fourth Limited Partner. After completion, you may edit this form to list the percentage shares of additional limited partners if desired.

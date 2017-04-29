@@ -1,0 +1,23 @@
+Key text file 1_23
+1.  The name of the bank and bank officer to whom you are addressing the letter.
+
+2.  The full address of the bank.
+
+3.  The date of the letter.
+
+4.  Your full name;<1x1x3> <1x1x4> <1x1x5>.
+If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+5.  Your checking account number(s) at this bank.
+Enter the complete checking account number(s) for accounts you wish to transfer to the Limited Liability Company.
+6.  Your savings account number(s) at this bank.
+Enter the complete savings account number(s) for accounts you wish to transfer to the Limited Liability Company.
+7.  Your certificate of deposit number(s) at this bank.
+Enter the complete certificate of deposit number(s) for accounts you wish to transfer to the Limited Liability Company.
+8.  The name of the Limited Liability Company.
+Enter the full name of the Limited Liability Company to which you are transferring your accounts.
+9.  The Federal Tax ID number for the Limited Liability Company.
+Enter The Federal Tax ID number for the Limited Liability Company to which you are transferring your accounts.
+10.  The name of the first manager of the Limited Liability Company.
+Make sure to also have manager sign form.
+11.  The name of the second manager of the Limited Liability Company.
+Upon completion, you may edit this form to include additional managers if desired.

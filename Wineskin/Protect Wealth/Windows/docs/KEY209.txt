@@ -1,0 +1,13 @@
+Key text 2_9
+1.  The name of the Lessor.
+Enter the name of the person or entity who owns the equipment.
+2.  The name of the Lessee.
+Enter the name of the person or entity who is leasing the equipment from the Lessor.
+3.  The term of the Lease Agreement.
+Enter the number of months the Lease Agreement will be in effect.
+4.  The amount of the lease payments.
+Enter the dollar amount (without the $ sign) of the monthly lease payment.
+5.  The state whose laws will govern the Lease Agreement.
+This is typically the state where the Lessor resides or maintains its principal place of business.
+6.  The equipment Lessor is leasing to Lessee under this Lease Agreement.
+Separate specific items of equipment with commas.

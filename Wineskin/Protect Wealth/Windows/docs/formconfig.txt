@@ -1,0 +1,112 @@
+1~0~Limited Partnership Documents
+1~101~  Certificate of Limited Partnership
+1~102~  Limited Partnership Agreement
+1~103~  Notice of Right to Withdraw
+1~103A~  Designation of Successor in Interest
+1~104~  Limited Partnership Schedule A
+1~105~  Quit Claim Deed
+1~106~  Optional Letter to Banks
+1~107~  Letter and Stock Power and Bond Power
+1~107A~  Limited Partnership Option Contract
+1~0~Multi Member LLC Documents
+1~108~  LLC Articles of Organization: Manager-Managed
+1~109~  LLC Operating Agreement: Manager-Managed
+1~109A~  LLC Articles of Organization: Member-Managed
+1~109B~  LLC Operating Agreement: Member-Managed
+1~110~     Exhibit A
+1~111~     Schedule A
+1~0~Single Member LLC Documents
+1~118~  Single Member LLC Articles of Organization: Manager-Managed
+1~119~  Single Member LLC Operating Agreement: Manager-Managed
+1~119A~  Single Member LLC Articles of Organization: Member-Managed
+1~119B~  Single Member LLC Operating Agreement: Member-Managed
+1~120~     Exhibit A
+1~121~     Schedule A
+1~0~Miscellaneous LLC Documents
+1~112~  LLC Designation of Successor in Interest
+1~122~  LLC Quit Claim Deed
+1~123~  LLC Optional Letter to Banks
+1~124~  LLC Letter and Stock Power and Bond Power
+1~124A~  LLC Option Agreement
+1~124B~  IRA LLC Operating Agreement (Single-Member, Manager-Managed LLC)
+1~124C~  IRA LLC Schedule A
+1~0~Other Asset Protection Documents
+1~125~  Land Trust Agreement
+1~125A~  Assignment of Beneficial Interest in Land Trust
+1~126~  Property Management Agreement
+1~127~  Physician Arbitration Agreement
+2~0~Corporation Documents
+2~201~  Articles of Incorporation
+2~202~  Corporation By-Laws 
+2~203~  Minutes of Organizational Meeting for Corporation
+2~205~  Waiver of Notice
+2~206~  Board of Directors Meeting
+2~207~  Annual Meeting of Shareholders
+2~208~  Transfer of Equipment
+2~209~  Equipment Lease
+2~210~  Commercial Lease Agreement
+2~211~  Residential Lease Agreement
+2~212~  Resolution to Lease Real Estate
+2~213~  Resolution to Purchase Real Estate
+2~214~  Resolution to Establish Bank Accounts
+2~215~  Resolution to Establish Corporate Credit Card Account
+2~216~  Resolution to Acquire Another Business
+2~217~  Resolution to Act as a General Partner
+2~218~  Resolution to Act as a Manager of a Limited Liability Company
+2~219~  Resolution to Designate a Trader
+2~220~  Resolution to Make Loans to Officers
+2~221~  Resolution to Reimburse Educational Expenses
+2~222~  Resolution to Obtain Life Insurance
+2~223~  Resolution to Acquire Motor Vehicles
+2~224~  Resolution to Establish a Retirement Plan
+2~225~  Resolution to Obtain a Country Club Membership
+2~226~  Resolution to Approve Cash Bonuses
+2~227~  Resolution to Authorize Payment for Attending Meetings
+2~229~  Resolution to Elect S Corporation Tax Status
+2~230~  Resolution to Declare Dividend
+2~228~  Certification of Resolutions
+2~0~Medical PC Documents
+2~231~  Medical PC Articles of Incorporation, Organizational Minutes and Bylaws
+2~232~  Non-Medical PC Articles of Incorporation, Org Minutes and Bylaws
+2~233~  At-Will Employment and Nondisclosure Agreement
+2~0~Charitable Remainder Unitrust Documents
+2~234~  Charitable Remainder Unitrust--One Life
+2~235~  Charitable Remainder Unitrust--2 lives, consecutive interest
+2~236~  Charitable Remainder Unitrust--2 lives, concurrent/consecutive interests
+2~236A~  Charitable Remainder Unitrust--Term of Years
+2~236B~  Charitable Remainder Unitrust Quitclaim Deed
+2~240~  Resolution to Amortize Organization Expenses
+3~0~Single Person's Living Trust Documents
+3~301~  Single Person's Living Trust (Equal distribution to children)
+3~301A~  Single Person's Living Trust (Unequal distribution/nonchildren beneficiaries)
+3~302~  Single Person's Schedule A
+3~303~  Single Person's Quit Claim Deed
+3~304~  Letter to Banks
+3~305~  Letter and Stock and Bond Power
+3~307~  Single Person's Procedure at Death of Trustor
+3~309~  Single Person's Personal Property List Trust Amendment
+3~309A~  Single Person's Certification of Trust
+3~0~Single Person's Last Will and Testament Documents
+3~306~  Single Person's Last Will and Testament
+3~308~  Single Person's Living Will
+3~310~  Durable Power of Attorney
+3~0~Family Trust Documents
+3~311~  Family Trust (Equal distribution to children)
+3~311A~  Family Trust (Unequal distribution/nonchildren beneficiaries)
+3~312~  Family Trust Schedule A
+3~313~  Family Trust Quit Claim Deed
+3~314~  Letter to Banks
+3~315~  Letter and Stock and Bond Power
+3~319~  Procedure at Death of Trustor (can be used for both husband and wife)
+3~322~  Personal Property List Trust Amendment (can be used for both husband and wife)
+3~322A~  Family Trust Certification of Trust
+3~0~Married Persons' Last Will and Testament Documents
+3~316~  Husband's Last Will and Testament
+3~317~  Wife's Last Will and Testament
+3~320~  Husband's Living Will
+3~321~  Wife's Living Will
+3~324~  Husband's Durable Power of Attorney
+3~325~  Wife's Durable Power of Attorney
+3~0~Irrevocable Life Insurance Trust Documents
+3~326~  Irrevocable Life Insurance Trust
+3~327~  Schedule A

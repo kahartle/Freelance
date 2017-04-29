@@ -1,0 +1,22 @@
+Key text 2_6
+1.  Name of the corporation.
+Enter the name as it appears in your Articles of Incorporation.
+2.  The name of a person in attendance.
+This question will be asked four more times.  If you have more or less in attendance than there is space for, you will need to adjust the form when you are in Word and are preparing to print the document.
+3.  The name of a person in attendance.
+
+4.  The name of a person in attendance.
+
+5.  The name of a person in attendance.
+
+6.  Matters discussed and decisions made.  
+This question will be asked three more times. If you have more or less in attendance than there is space for, you will need to adjust the form when you are in Word and are preparing to print the document. 
+7.  Matters discussed and decisions made.
+
+8.  Matters discussed and decisions made.
+
+9.  Matters discussed and decisions made.
+
+10. Time the meeting was adjourned.
+
+11. Name of Secretary taking the minutes.

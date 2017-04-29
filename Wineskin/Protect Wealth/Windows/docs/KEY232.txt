@@ -1,0 +1,22 @@
+Key text file 2_32
+1.  The name of the Corporation.
+
+2.  The type of profession.
+E.g., law, dentistry, etc.
+3.  The state where you are establishing your corporation.
+
+4.  The name of the Managing Director.
+This is also the person who will be the known as the client and Chair of the Organizational Meeting.
+5.  The address of the corporation's sole shareholder, director, and officer.
+Enter street, city, state, and Zip code.
+6.  The address of the Organizational Meeting.
+
+7.  The state where the Organizational Meeting was held.
+
+8.  The name of the Secretary of the Corporation.
+
+9.  The amount of yearly salary to be paid to the Managing Director.
+
+10.  The amount per month that will be paid to the Managing Director.
+
+11.  The fiscal calendar year of the corporation.  

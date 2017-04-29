@@ -1,0 +1,19 @@
+Key text file 3_24
+1.  The principal person who is granting this Springing Durable Power of Attorney.
+In this case the wife.  This is the person who is creating the springing durable power of attorney.
+2.  Any other name by which the pricipal person is known, if any.
+
+3.  The city where the principal person resides.
+
+4.  The state where the principal person resides.  
+
+5.  The name of the principal person's agent.
+This is the person to whom the principal person is granting power of attorney.
+6.  The city where the agent resides.
+
+7.  The state where the agent resides.  
+
+8.  The name of the first witness.
+Assure that the witness signs the document.
+9.  The name of the second witness.
+Assure that the witness signs the document.

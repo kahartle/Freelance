@@ -1,0 +1,33 @@
+Key text file 3_5
+1.  The date of the letter.
+Enter the date that you are sending the letter.
+2.  The name of the stock broker or account manager to whom you are addressing the letter.
+Enter the name of the stock broker or account manager who will take care of the transfer for you.
+3.  The name of the company where the above broker or account manager is employed.
+
+4.  The address of the current trustee of your Living Trust.
+Enter the address of the current trustee of your Living Trust.
+5.  The name of the current trustee of your Living Trust.
+Enter the name of the current trustee of your Living Trust.
+6.  The name of your Living Trust.
+Enter the name of your Living Trust as it appears in the trust documents.
+7.  The Social Security number of the trustor, or Tax ID number of your Living Trust.
+This is usually your social security number.  Most Living Trusts do not have a Tax ID number.
+8.  The number of shares of stock you are transferring to your Living Trust.
+
+9.  The company whose stock you are transferring to your Living Trust.
+Enter the name of the company or entity who issued the stock (e.g., Microsoft, IBM).
+10.  The certificate numbers of the stock certificates being transferred.
+
+11.  The number of bonds you are transferring to your Living Trust.
+
+12.  The name of the issuer of the bonds you are transferring.
+Enter the name of the company or entity who issued the bonds (e.g., Microsoft, U.S. Treasury)
+13.  The total dollar amount of the bonds you are transferring.
+
+14.  The bond numbers of the bonds you are transferring to your Living Trust.
+These are found on the actual bond document.
+15.  The name of the person to whom you are granting power of attorney to transfer the stocks or bonds.
+
+16.  The name of the current stock or bond owner.
+Enter the name of the person transferring stocks or bonds to the Living Trust.

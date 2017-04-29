@@ -1,0 +1,36 @@
+Key text file 240
+1.  Corporation Name.
+Complete name of corporation which has been approved by the state in which you are incorporating.  
+2.  State of Incorporation.
+List the state where the Articles of Incorporation have been filed
+3.  Organization date.
+The date stamped on your Articles of Incorporation.  After the state agency accepts your Articles of Incorporation, they will approve and date stamp the paperwork and return it to you.  Your Corporation becomes effective when it is recognized by the state.  
+4.  Month Amortization is to be begin.
+List the month in which the amortization schedule is to begin
+5.  Year Amortization is to begin.
+List the year in which the amortization schedule is to begin
+6.  Amount of Legal fees claimed as a start-up expense.	
+Amount of legal fees paid for drafting the Articles of Incorporation, Corporate By-laws, Shareholder Agreement, Minutes of Organizational Meetings, Corporate Stock Certificates, Stock Ledger and other related documents.   (If none, enter “none”)
+7.  Attorney’s Name.
+List the attorney to whom legal services to whom necessary legal expenses were paid for the formation of the corporation.  (If none, enter “N/A”)
+8.  Accounting Fees Paid.
+Amount of accounting fees paid which were necessary for the formation of the corporation.  (If none, enter “none”)
+9.  Accountant’s Name.
+List the accountant or CPA to whom necessary accounting expenses were paid for the formation of the corporation.  (If none, enter “N/A”)
+10.  Filing Fees paid to state.
+Amount of incorporation fees, filing fees, and franchise taxes paid to form the corporation. 
+11.  State Agency.
+List the state agency, generally a Secretary of State or Department of Corporations to whom the filing fees were paid. 
+12.  Travel reimbursements paid.
+Amount of any travel reimbursements paid to board members who were required to attend the organizational meeting of the corporation. 
+13.  Person(s) to whom travel expenses were paid.
+List of all persons who were reimbursed travel expenses for attending the initial organizational meetings of the company.
+14.  Research & Development expenses paid.
+Include any amounts paid or incurred in investigating the creation or acquisition of the business.
+15.  Company(ies) to whom research & developments costs were paid. 
+16.  Additional fees and expenses incurred.
+Amount of any other additional fees and expenses which were ordinary and necessary for the establishment of the corporation. 
+17.  Payee(s) or vendor(s) to whom additional start-up expenses were paid. 
+List of companies to persons to whom additional start-up expenses were paid. 
+18.  Total amount of start-up expenses.
+Total amount of all start-up expenses to be amortized. 

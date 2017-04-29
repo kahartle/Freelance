@@ -1,0 +1,12 @@
+Key text file 1_26
+1.  The name of the owner of the property.
+Enter the full name of the person or entity who owns the property.
+2.  The name of the manager of the property.
+Enter the full name of the person or entity who will manage the property under this agreement.
+3.  The percent of gross receipts from the property the manager will receive as its management fee.
+Enter the numerical value only, and do not include "%."
+4.  The state where the property is located.
+
+5.  The county where the property is located.
+
+6.  Enter a detailed description of the real property managed under this agreement.

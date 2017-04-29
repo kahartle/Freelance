@@ -1,0 +1,13 @@
+Key text file 2_27
+1.  The name of the Corporation.
+Enter the name of the Corporation as it appears in the Articles of Incorporation.
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., C, S, Nevada C, Nevada S, etc.)
+3.  The name and title of the person authorized to received payment.
+Enter the name, then the title (e.g., "John Smith, CFO").
+4.  The dollar amount of the per meeting allotment authorized for this person.
+Enter the dollar amount per meeting that will be paid to the Board Member or Shareholder, omitting the "$" sign. (e.g., "200").
+5.  The per diem amount that will be paid to this person, per meeting.
+Omit the "$" sign.
+6.  The name of the Secretary.
+Be sure to have the Secretary sign the form.

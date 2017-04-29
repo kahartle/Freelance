@@ -1,0 +1,23 @@
+1_9 Key text file
+1.  The name of the Limited Liability Company (LLC).
+Enter the name of the LLC as it appears in the Articles of Organization.
+2.  Name of first Manager of LLC.
+Enter the name of the first Manager as it appears in the Articles of Organization.
+3.  Name of second Manager of LLC.
+Enter the name of the second Manager as it appears in the Articles of Organization. After completion, you may edit this form to list additional managers named in the Articles of Organization.
+4.  Name of first Member of the LLC.
+Enter the full name.
+5.   Name of second Member of the LLC.
+Enter the full name.
+6.   Name of third Member of the LLC.
+Enter the full name.
+7.   Name of fourth Member of the LLC.
+Enter the full name. After completion, you may edit this form to list additional members if desired. 
+8.  The state where the LLC is organized.
+This is the state where you have filed, or will file, your Articles of Organization.
+9.  The principal place of business street address.  
+Enter the principal business street address as it appears in the Articles of Organization.
+10.  The principal city and state where your business is located.
+Enter the city and state of the LLC's principal place of business.
+11.  The zip code for your principal place of business.
+Enter the zip code of the LLC's principal place of business.

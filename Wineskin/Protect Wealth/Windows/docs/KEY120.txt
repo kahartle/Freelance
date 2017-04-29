@@ -1,0 +1,6 @@
+Key text file 1_20
+1. The name of the Limited Liability Company.
+
+2. The name of the single member of the LLC. 
+ 
+3. The dollar value of capital contributed by the member.

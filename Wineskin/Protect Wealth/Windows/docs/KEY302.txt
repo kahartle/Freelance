@@ -1,0 +1,42 @@
+﻿Key text file 3_2
+1.  The name of the Grantor.
+
+2.  The name of the living trust.
+Enter the name of the living trust as it appears in the trust document.
+3.  The date of the living trust.
+
+4.  Description of the primary home.
+Enter the address of the primary residence.  If you are transferring title to real estate or any other asset to some other entity (e.g., limited partnership, LLC), do not enter those items in this document and enter your interest in the ownership entity (e.g., limited partnership, LLC) beginning with question 29. Don’t forget to deed any real estate to be owned by the trust to the trust.
+5.  The county where the property is located.
+
+6.  The state where the property is located.
+
+7.  Description of other real estate.
+
+8.  Description of other real estate.
+
+9.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+10.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+11.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+12.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+13.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+14.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+15.  Description of vehicle.
+The make, model, year, and VIN of the vehicle.
+16.  Description of vehicle.
+The make, model, year, and VIN of the vehicle.
+17.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+18.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+19.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+20.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+21.  The date of this Schedule A.

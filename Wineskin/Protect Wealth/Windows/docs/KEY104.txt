@@ -1,0 +1,160 @@
+1_4 Key text file
+1.  The name of the Limited Partnership.
+Enter the full name of the Limited Partnership as it appears in the Certificate of Limited Partnership.
+2.  The name of the owner of a parcel of real estate being transferred to the Limited Partnership.
+Enter the full name as it appears in the land records.
+3.  Enter the legal description of the property.
+This information is on the deed or available at your county's registry of deeds. 
+4.  The name of the owner of the next parcel of real estate being transferred to the Limited Partnership.
+Enter the full name as it appears in the land records.
+5.  Enter the legal description of the next property.
+This information is on the deed or available at your county's registry of deeds. 
+6.  The name of the owner of the next parcel of real estate being transferred to the Limited Partnership.
+Enter the full name as it appears in the land records.
+7.  Enter the legal description of the next property.
+This information is on the deed or available at your county's registry of deeds. Upon completion, you may edit this form to include additional property information and descriptions if desired.
+8.  The name of your first bank or financial institution.
+Enter the name of the bank or financial institution where you maintain an account or accounts you are transferring to the Limited Partnership.
+9.  Complete mailing address for the bank or financial institution.
+Enter complete address with City, State, & Zip Code.
+10.  Account number of the checking account you are conveying to the Limited Partnership. 
+If you are transferring multiple checking accounts, separate the account numbers by commas.
+11.  The owner of the checking account or accounts.
+Enter the name or names as they appear on the checking account or accounts.
+12.  Account number of the savings account you are conveying to the limited partnership; 
+If you are transferring multiple savings accounts, separate the account numbers by commas.  
+13.  The owner of the savings account or accounts.
+Enter the name or names as they appear on the savings account or accounts.
+14.  Certificate of deposit number.
+If you are transferring multiple certificates of deposit, separate the account numbers by commas.
+15.  The owner of the certificate of deposit.
+Enter the name or names as they appear on the certificate(s) of deposit.
+16.  The name of your second bank or financial institution.
+Enter the name of the bank or financial institution where you maintain an account or accounts you are transferring to the Limited Partnership.
+17.  Complete mailing address for the bank or financial institution.
+Enter complete address with City, State, & Zip Code.
+18.  Account number of the checking account you are conveying to the Limited Partnership. 
+If you are transferring multiple checking accounts, separate the account numbers by commas.
+19.  The owner of the checking account or accounts.
+Enter the name or names as they appear on the checking account or accounts.
+20.  Account number of the savings account you are conveying to the limited partnership; 
+If you are transferring multiple savings accounts, separate the account numbers by commas.  
+21.  The owner of the savings account or accounts.
+Enter the name or names as they appear on the savings account or accounts.
+22.  Certificate of deposit number.
+If you are transferring multiple certificates of deposit, separate the account numbers by commas.
+23.  The owner of the certificate of deposit.
+Enter the name or names as they appear on the certificate(s) of deposit.
+24.  The name of your third bank or financial institution.
+Enter the name of the bank or financial institution where you maintain an account or accounts you are transferring to the Limited Partnership.
+25.  Complete mailing address for the bank or financial institution.
+Enter complete address with City, State, & Zip Code.
+26.  Account number of the checking account you are conveying to the Limited Partnership. 
+If you are transferring multiple checking accounts, separate the account numbers by commas.
+27.  The owner of the checking account or accounts.
+Enter the name or names as they appear on the checking account or accounts.
+28.  Account number of the savings account you are conveying to the limited partnership; 
+If you are transferring multiple savings accounts, separate the account numbers by commas.  
+29.  The owner of the savings account or accounts.
+Enter the name or names as they appear on the savings account or accounts.
+30.  Certificate of deposit number.
+If you are transferring multiple certificates of deposit, separate the account numbers by commas.
+31.  The owner of the certificate of deposit
+Enter the name or names as they appear on the certificate(s) of deposit. Upon completion, you may edit this form to include additional banks or financial institutions and account information if desired.
+32.  Name of first mutual fund, stock, or other equity security being transferred to the Limited Partnership. 
+
+33.  The owner of the mutual fund or stock security.
+
+34.  The address where the mutual fund or stock certificate is maintained.
+
+35.  The account/certificate number of the mutual fund or stock.
+
+36.  The number of shares of the mutual fund or stock.
+
+37.  If a bond, desription of bond and name of issuing entity;<10x1x6>
+
+38.  If a bond, the account/certificate number of the bond;<10x1x12>
+
+39.  If a bond, the principal amount of the bond.
+Enter number only (no dollar sign) and round to the nearest dollar.
+40.  The owner of the bond.
+
+41.  Name of second mutual fund, stock, or other equity security being transferred to the Limited Partnership.
+
+42.  The owner of the mutual fund or stock security.
+
+43.  The address where the mutual fund or stock certificate is maintained.
+
+44.  The account/certificate number of the mutual fund or stock.
+
+45.  The number of shares of the mutual fund or stock.
+
+46.  If a bond, If a bond, desription of bond and name of issuing entity;<10x1x6>
+
+47.  If a bond, the account/certificate number of the bond;<10x1x12>
+
+48.  If a bond, the principal amount of the bond.
+Enter number only (no dollar sign) and round to the nearest dollar.
+49.  The owner of the bond.
+
+50.  Name of third mutual fund, stock, or other equity security being transferred to the Limited Partnership. 
+
+51.  The owner of the mutual fund or stock security.
+
+52.  The address where the mutual fund or stock certificate is maintained.
+
+53.  The account/certificate number of the mutual fund or stock.
+
+54.  The number of shares of the mutual fund or stock.
+
+55.  If a bond, If a bond, desription of bond and name of issuing entity;<10x1x6>
+
+56.  If a bond, the account/certificate number of the bond;<10x1x12>
+
+57.  If a bond, the principal amount of the bond.
+Enter number only (no dollar sign) and round to the nearest dollar.
+58.  The owner of the bond.
+Upon completion, you may edit this form to include additional securities information if desired.
+59.  The make and model of a vehicle you are transferring to the Limited Partnership.
+Be descriptive.
+60.  The year of the vehicle you are transferring to the Limited Partnership.
+
+61.  The Vehicle Identification Number (VIN) for the vehicle you are transferring to the Limited Partnership.
+
+62.  The title number of the vehicle you are transferring to the Limited Partnership.
+
+63.  The owner of the vehicle.
+Enter complete name as listed on the title.
+64.  The make and model of a vehicle you are transferring to the Limited Partnership.
+Be descriptive.
+65.  The year of the vehicle you are transferring to the Limited Partnership.
+
+66.  The Vehicle Identification Number (VIN) for the vehicle you are transferring to the Limited Partnership.
+
+67.  The title number of the vehicle you are transferring to the Limited Partnership.
+
+68.  The owner of the vehicle.
+Enter complete name as listed on the title. Upon completion, you may edit this form to include additional vehicle information if desired.
+69.  List any other asset you wish to transfer to the Limited Partnership, including any descriptive information that will help in identifying the asset (paintings, antiques, etc.)
+Be as descriptive as possible to avoid confusion and possible disputes.
+70.  The owner of the asset.
+Enter the full name of the owner of the asset.
+71.  List any other asset you wish to transfer to the Limited Partnership, including any descriptive information that will help in identifying the asset (paintings, antiques, etc.)
+Be as descriptive as possible to avoid confusion and possible disputes.
+72.  The owner of the asset.
+Enter the full name of the owner of the asset.
+73.  List any other asset you wish to transfer to the Limited Partnership, including any descriptive information that will help in identifying the asset (paintings, antiques, etc.)
+Be as descriptive as possible to avoid confusion and possible disputes.
+74.  The owner of the asset.
+Enter the full name of the owner of the asset.
+75.  List any other asset you wish to transfer to the Limited Partnership, including any descriptive information that will help in identifying the asset (paintings, antiques, etc.)
+Be as descriptive as possible to avoid confusion and possible disputes.
+76.  The owner of the asset.
+Enter the full name of the owner of the asset.  Upon completion, you may edit this form to include additional assets and owners if desired.
+77.  Name of the first Grantor.
+
+78.  Name of the second Grantor.
+
+79.  Name of the third Grantor.
+
+80.  Name of the fourth Grantor.

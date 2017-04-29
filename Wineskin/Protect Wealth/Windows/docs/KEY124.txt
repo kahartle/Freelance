@@ -1,0 +1,33 @@
+1_7 Key text file
+1.  The date of the letter.
+Enter the date that you are sending the letter.
+2.  The name and address of the stock broker, account manager or issuer of stock to whom you are addressing the letter.
+Enter the name and address of the stock broker, account manager or issuer of stock and the specific person who will take care of the transfer for you.
+3.  The full address of the Manager.
+Enter the complete address for the Manager of the Limited Liability Company to whom you want the certificates mailed.
+4.  The name of the Manager.
+Enter the full name of the Manager of the Limited Liability Company to whom you want the certificates mailed.
+5.  The name of the Limited Liability Company to which you are making the transfer.
+Enter the name of the Limited Liability Company as it appears in the Articles of Organization.
+6.  The Federal Tax ID number for the Limited Liability Company.
+
+7.  The number of shares of stock you are transferring.
+
+8.  The type of stock you are transferring.
+Enter the specific type of stock (i.e., common, preferred, etc.).
+9.  The company whose stock you are transferring.
+Enter the name of the company or entity who issued the stock (e.g., Microsoft, IBM).
+10.  The certificate numbers of the stock certificates being transferred.
+
+11.  The number of bonds you are transferring.
+
+12.  The name of the issuer of the bonds you are transferring.
+Enter the name of the company or entity who issued the bonds (e.g., Microsoft, U.S. Treasury)
+13.  The total dollar amount of the bonds you are transferring.
+
+14.  The bond numbers of the bonds you are transferring to the Limited Liability Company.
+These are found on the actual bond document.
+15.  The name of the person to whom you are granting power of attorney to transfer the stocks or bonds.
+
+16.  The name of the current stock or bond owner.
+Enter the name of the person transferring stocks or bonds to the Limited Liability Company.

@@ -1,0 +1,21 @@
+Key text file 1_22
+1.  Name of person(s) quit claiming the real estate  (the Grantor(s))
+This should be the person(s) who hold the legal title to the real estate. This could be a trust, a corporation, or one or more individuals.  (Check the original deed to be sure.)
+2.  City where Grantor(s) live
+The complete name of the city that you claim as your permanent residence in the state where you pay income taxes.
+3.  County where Grantor(s) live
+ 
+4.  State where Grantor(s) live
+
+5.  Name of the Grantee. 
+If you are transferring the property to a Limited Liability Company, this is the name of the Limited Liability Company as it appears in the Articles of Organization.
+6.  The street address of the Grantee.
+If you are transferring the property to a Limited Liability Company, this is the principal place of business address of the Limited Liability Company.
+7.  The city where the Grantee resides.
+If you are transferring the property to a Limited Liability Company, this is the city of its principal place of business.
+8.  The county where the Grantee resides.
+If you are transferring the property to a Limited Liability Company, this is the county of its principal place of business.
+9.  The state where the Grantee resides.
+If you are transferring the property to a Limited Liability Company, this is the state of its principal place of business.
+10.  Complete legal description of the real estate.
+Copy this legal description directly from the deed.  Have someone else read the description back to you from the deed so you can verify its accuracy.

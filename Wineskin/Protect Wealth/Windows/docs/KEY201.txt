@@ -1,0 +1,33 @@
+Key text file 2_1
+1.  The name of the Corporation.
+Enter the name you have selected for your corporation.  This can be any name that is available for use in the state of formation.  State law typically requires that the name include "Corporation," or some abbreviation such as "Corp." or "Inc."
+2.  The state where you are establishing your Corporation.
+
+3.  The name of the registered agent of the Corporation.
+This may be you or some other individual or entity. The registered agent is the person who will be served with court papers in the event your Corporation is sued.  The registered agent must have an address in the state where you file your Corporation, which cannot be a PO Box.
+4.  The address of the registered agent of the Corporation.
+This must be a physical address in the state of formation.
+5.  The name of the first member of the Board of Directors of the corporation.
+Enter the full name of the first member of the board. (If there are more or less members of the Board than spaces provided, you will need to adjust the document in Word before you print it.)
+6.  The address of the first member of the Board of Directors.
+Include street, city, state, and zip code.
+7.  The name of the second member of the Board of Directors of the corporation.
+Enter the full name of the second member of the board.
+8.  The address of the second member of the Board of Directors.
+Include street, city, state, and zip code.
+9.  The name of the third member of the Board of Directors of the corporation.
+Enter the full name of the third member of the board.
+10.  The complete address of the third member of the Board of Directors of the corporation.
+Include street, city, state, and zip code.
+11.  The name of the fourth member of the Board of Directors of the corporation.
+Enter the full name of the fourth member of the board.
+12.  The complete address of the fourth member of the Board of Directors of the corporation.
+Include street, city, state, and zip code.
+13.  The name of the first incorporator.
+Enter the full name. The incorporator is the person who forms the corporation--essentially the person completing this forms. (If there are more or less incorporators than spaces provided, you will need to adjust the document in Word before you print it.)
+14.  The address of the first incorporator.
+Include street, city, state, and zip code.
+15.  The name of the second incorporator.
+Enter the full name.
+16.  The address of the second incorporator.
+Include street, city, state, and zip code.

@@ -1,0 +1,23 @@
+1_6 Key text file
+1.  The name of the bank and bank officer to whom you are addressing the letter.
+
+2.  The full address of the bank.
+
+3.  The date of the letter.
+
+4.  Your full name.
+
+5.  Your checking account number(s) at this bank.
+Enter the complete checking account number(s) for accounts you wish to transfer to the Limited Partnership.
+6.  Your savings account number(s) at this bank.
+Enter the complete savings account number(s) for accounts you wish to transfer to the Limited Partnership.
+7.  Your certificate of deposit number(s) at this bank.
+Enter the complete certificate of deposit number(s) for accounts you wish to transfer to the Limited Partnership.
+8.  The name of the Limited Partnership.
+Enter the full name of the Limited Partnership to which you are transferring your accounts.
+9.  The Federal Tax ID number for the Limited Partnership.
+Enter the Federal Tax ID number for the Limited Partnership to which you are transferring your accounts.
+10.  The name of the first General Partner.
+
+11.  The name of the second General Partner.
+Upon completion, you may edit this form to include additional General Partners if desired.

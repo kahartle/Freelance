@@ -1,0 +1,21 @@
+Key Text file 1_19A
+1.  The name of the Limited Liability Company (LLC).
+Enter the name you have chosen for your LLC.  This can be any name that is available for use in the state of formation. State law typically requires that the name include "Limited Liability Company," or some abbreviation such as "LLC," or "LC." 
+2.  The state where you are organizing your LLC.
+
+3.  The principal purpose of the LLC.
+Enter in detail the purpose for which you are establishing your LLC. 
+4.  Address of the principal place of business of the LLC.  
+Enter the principal place of business street address of the LLC.  This is the primary address where you conduct business.
+5.  The name of the registered agent of the LLC.
+This may be you or some other individual or entity. The registered agent is the person who will be served with court papers in the event your LLC is sued.  The registered agent must have an address in the state where you file your LLC, which cannot be a PO Box.
+6.  The address of the registered agent of the LLC.
+This must be a physical address in the state of formation and is not necessarily the same as the principal place of business.
+7.  Member of the LLC.
+Enter the full name of the member.  The member may be a person or entity.
+8.  The address of the member of the LLC.
+Enter the complete address of the member of the LLC.
+9.  The name of the organizer of the LLC.
+Include the first, middle, and last name.
+10.  The address of the organizer of the LLC.
+Enter the complete address of the manager of the LLC.

@@ -1,0 +1,15 @@
+Key text file 2_30
+1.  The name of the Corporation.
+Enter the name of the Corporation as it appears in the Articles of Incorporation.
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., C, S, Nevada C, Nevada S, etc.).
+3.  The amount of the dividend per share that will be distributed.
+
+4.  The name of the first Director of the Board.
+
+5.  The name of the second Director of the Board.
+
+6.  The name of the third Director of the Board.
+
+7.  The name of the fourth Director of the Board.
+After completion, you may edit this form to add additional directors if you desire.

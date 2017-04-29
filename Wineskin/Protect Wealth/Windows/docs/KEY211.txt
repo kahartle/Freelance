@@ -1,0 +1,36 @@
+Key text file 2_12
+1.  The name of the Lessor.
+Enter the full name of the person or entity who owns the property.
+2.  The name of the first Lessee.
+Enter the full name of the first person who is leasing the property. 
+3.   The name of the second Lessee.
+Enter the full name of the second person who is leasing the property. Upon completion, this form may be edited to include additional lessees if desired.
+4.  The street address of the property.
+Enter the street address of the property.
+5.  The city where the property is located.
+
+6.  The county where the property is located.
+
+7.  The state where the property is located.
+
+8.  The written dollar amount of the monthly lease payment.
+Enter the written dollar amount (e.g., "twelve hundred") that the lessee will pay each month.
+9.  The numerical dollar amount of the monthly lease payment.
+Enter the numerical dollar amount (e.g., "1200") that the lessee will pay each month. Omit the $ sign.
+10.  The month and year the lease will become effective.
+For example, "September 2005"
+11.  The location where the rent is to be paid each month.
+Enter the complete address where the lessee is to mail or deliver the monthly rent payment.
+12.  The written dollar amount of the deposit due by lessee upon signing of the lease agreement. 
+Enter the written dollar amount of the deposit (e.g., "One thousand dollars").
+13.  The numerical dollar amount of the deposit due upon signing of the lease agreement.
+Enter the numerical dollar amount of the deposit (e.g., "1200"). Omit the $ sign.
+14.  The day the lease agreement will terminate.
+
+15.  The mailing address of the Lessor.
+Enter the complete mailing address for the person who owns the property.
+16.  The mailing address of the first Lessee.
+Enter the complete mailing address for the first person who is leasing the property.
+17.  The mailing address of the second Lessee.
+Enter the complete mailing address for the second person who is leasing the property.
+18.  Enter a detailed description of the property leased under this agreement.

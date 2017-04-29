@@ -1,0 +1,33 @@
+﻿Key text file 3_11
+1.  The name of the Family Trust.
+Enter the complete name of your Family Trust (e.g., "The John and Joan Smith Family Trust").
+2.  The effective date of the trust.
+
+3.  The name of the first spouse.
+
+4.  The name of the second spouse.
+
+5.  The state whose laws will apply to the trust.
+
+6.  The name of the first spouse’s trust.
+The Family Trust creates two separate subtrusts--one for one spouse and one for the other. Enter the name of the first spouse’s trust (e.g., "The John Smith Living Trust").
+7.  The name of the second spouse’s trust.
+The Family Trust creates two separate trusts--one for one spouse and one for the other. Enter the name of the second spouse’s trust (e.g., "The Joan Smith Living Trust").
+8.  The name of the first child who is living or deceased.
+This form assumes that you desire to leave your estate to your children equally, (including the equal share of a deceased child to that child's children equally).  If this is not your intention, some modifications should be made.  Check with your advisor.
+9.  The name of the second child who is living or deceased.
+
+10. The name of the third child who is living or deceased.
+
+11. The name of the fourth child who is living or deceased.
+
+12. The name of the fifth child who is living or deceased.
+
+13.  The name of te sixth child who is living or deceased.
+If you have more than six children, you may edit this form upon completion to include additional children if desired.
+14.  The name of the first person(s) who will act as trustee of your Living Trust upon your death or incapacitation.
+You may name one person, or co-trustees who will act jointly.
+15.  The name of your second preference to act as trustee of your Living Trust.
+Enter the full name of your second preference to act as trustee of your Living Trust after your death, in the event the trustee(s) identified as your first preference are either unwilling or unable to do so.
+16.  The name of your third preference to act as trustee of your Living Trust.
+Enter the full name of your third preference to act as trustee of your Living Trust, in the event the trustee(s) identified as your second preference are either unwilling or unable to do so.

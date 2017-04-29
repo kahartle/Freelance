@@ -1,0 +1,19 @@
+Key text file 1_25A
+1.  The name of the person or entity assigning the beneficial interest in the Land Trust.
+
+2.  The name of the assignee (person or entity receiving the assignment) of the beneficial interest in the Land Trust.
+
+3.  The name of the Land Trust at issue.   
+Enter the name of the Land Trust as it appears in the Land Trust Agreement.
+4.  The percentage of the entire beneficial interest under the Land Trust Agreement that the assignor is assigning to the assignee.
+
+5.  The person or entity who will have the power to direct the Trustee under the Land Trust Agreement following the assignment.
+
+6.  The Social Security number or EIN number of the Assignor.
+
+7.  The Social Security number or EIN number of the Assignee.
+
+8.  The mailing address of the Assignee.
+Enter the address where the assignee of the beneficial interest desires to receive correspondence from the Trustee.  
+9.  The name of the Trustee of the Land Trust.
+Be sure to date and obtain all appropriate signatures on the form.

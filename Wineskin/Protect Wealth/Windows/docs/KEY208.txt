@@ -1,0 +1,10 @@
+Key text 2_8
+1.  The name of the person or business transferring equipment to the corporation.
+This agreement is to document any transfers of equipment from any shareholder(s) to the corporation. 
+2.  The name of the person authorizing the transfer of equipment.
+If you are transferring equipment as an individual, this person would be you.  If your business is transferring the equipment, it would be the person in the business authorizing the transfer, which again could be you.
+3.  The name of the corporation receiving the equipment.
+Enter the name as it appears in your Articles of Incorporation.
+4.  The name of the person authorized to receive the equipment on behalf of the corporation to which you are transferring the equipment.
+This person should typically be an officer of the corporation.
+5.  List all equipment transferred to the Corporation.

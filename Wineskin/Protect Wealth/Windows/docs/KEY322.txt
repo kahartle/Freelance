@@ -1,0 +1,11 @@
+Key text file 3_22
+1.  The name of the first spouse who is Grantor/Trustor of the Family Trust.
+
+2.  The name of the second spouse who is Grantor/Trustor of the Family Trust.
+
+3.  The name of the Family Trust.
+
+4.  The date of the Family Trust.
+
+5.  The date of this Personal Property List Trust Amendment.
+Enter the specific property directives when you are in your word processor.

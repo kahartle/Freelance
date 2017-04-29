@@ -1,0 +1,21 @@
+Key text file 3_3
+1.  The name of the Grantor.
+Enter the full name of the Grantor as it appears on the deed to the real estate.
+2.  The city where the Grantor lives.
+Enter the city where the Grantor lives.
+3.  The county where the Grantor lives.
+Enter the name of the county where the grantor lives, omitting the word "county."
+4.  The state where the Grantor lives.
+Enter the state where the Grantor lives.
+5.  The name of the current Trustee of your Living Trust.
+Enter the full name of the Trustee of your Living Trust to which you are transferring title.
+6.  The name of your Living Trust.
+Enter the name of your Living Trust as it appears in the trust documents.
+7.  The county where the property is located.
+Enter the name of the county where the property is located, omitting the word "county."
+8.  The state where the property is located.
+Enter the name of the state where the property is located.
+9.  The complete legal description of the property.
+Enter the legal description of the property.  The legal description should appear on your current deed.
+10.  The name of the witness who is signing the document.
+Enter the name of the witness who will witness your signing of the document.  Assure that the witness also signs the document.

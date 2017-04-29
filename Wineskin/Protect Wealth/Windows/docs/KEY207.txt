@@ -1,0 +1,69 @@
+Key text 2_7 
+1.  Name of the Corporation.
+Enter the name as it appears in your Articles of Incorporation.
+2.  Address where the annual shareholder meeting was held.
+Enter the address in the format street, city, state, zipcode.
+3.  Title of the corporate officer calling meeting to order.
+Any corporate officer can call the meeting to order.
+4.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+5.  Number of shares owned by the shareholder.
+
+6.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+7.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+8.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+9.  Number of shares owned by the shareholder.
+
+10.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+11.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+12.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+13.  Number of shares owned by the shareholder.
+
+14.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+15.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+16.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+17.  Number of shares owned by the shareholder.
+
+18.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+19.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+20.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+21.  Number of shares owned by the shareholder.
+
+22.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+23.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+24.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+25.  Number of shares owned by the shareholder.
+
+26.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+27.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+28.  Name of a shareholder either present at the meeting or represented by proxy.
+Enter the first, middle and last name. A shareholder represented by proxy is one who gives someone else permission to vote his or her shares.
+29.  Number of shares owned by the shareholder.
+
+30.  If the shares were voted by the shareholder "in person" (rather than by proxy) enter "in person" here.
+
+31.  If the shares were voted by the shareholder "by proxy" (rather than in person) enter "by proxy" here.
+
+32.  List any changes in stockholders that were made since the last report. 
+
+33.  List directors nominated and elected to serve until next annual meeting.
+List elected directors, each name separated by commas.
+34.  Enter the name of the Secretary in attendance at the meeting.
+Have the Secretary sign the form where indicated. 

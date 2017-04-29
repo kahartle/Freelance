@@ -1,0 +1,24 @@
+Key text file 3_16
+1.  The name of the person whose last will and testament this is.
+Enter the full legal name.
+2.  The name of the Family Trust of the person whose last will and testament this is.
+Enter the name as it appears in the trust documents.
+3.  The name of your spouse.
+Your spouse will act as your primary personal representative upon your death.
+4.  The name of all your children that are 21 years of age or older.
+Enter the names of each of child over the age of 21, separated by commas. If your wife predeceases you, or if she is unable or unwilling to act as your personal representative, your children over the age of 21 will serve in that capacity jointly. 
+5.  The name of another person whom you would appoint as Trustee.
+Enter the name of your next choice to serve as your personal representative in the event neither your wife nor your children survive you, or if they are unwilling or unable to serve in that capacity.
+6.  The name(s) of the person(s) who are your first preference to become legal guardian(s) of your minor children in the event of your death, assuming your wife predeceases you.
+
+7.  The name(s) of the person(s) who are your second preference to become legal guardian(s) of your minor children in the event of your death, assuming your wife predeceases you.
+If your first preference is unable or unwilling to become guardian(s) of your minor children, then your second preference will become guardian(s).
+8.  The first witness to your Last Will and Testament.
+Select independent witnesses who can attest that the document reflects the maker's wishes. Witnesses must be of legal age and should not have an interest in receiving your property after your death. They should not benefit from your death in any way (i.e.: not an heir to the estate, not financially responsible for your health care bills, not responsible for raising your children, etc.).  They should also not be persons affiliated with a community care or residential care facility.  Check your state requirements a few states require 3 witnesses.
+9.  The second witness to your Last Will and Testament.  
+Select independent witnesses who can attest that the document reflects the maker's wishes. Witnesses must be of legal age and should not have an interest in receiving your property after your death. They should not benefit from your death in any way (i.e.: not an heir to the estate, not financially responsible for your health care bills, not responsible for raising your children, etc.).  They should also not be persons affiliated with a community care or residential care facility.  Check your state requirements a few states require 3 witnesses.
+10.  The address of the first witness.
+Full legal address, not a post office box.
+11.  The address of the second witness.
+Full legal address, not a post office box.
+12.  The name of your attorney, or other individual, who should be notified in the event you become seriously ill or incapacitated.

@@ -1,0 +1,25 @@
+Key text file 3_27
+1.  The name and address of insurance company.
+Enter the name of an insurance company that has issued a policy to be transferred to the trust. Bear in mind that any insurance company named herein should be notified regarding the transfer of policy into the trust.  Call your agent for help.
+2.  The policy number.
+
+3.  The name and address of second insurance company.
+Enter the name of a second insurance company that has issued a policy to be transferred to the trust, if any.
+4.  The policy number.
+
+5.  The name and address of a third insurance company.
+Enter the name of a third insurance company that has issued a policy to be transferred to the trust, if any.
+6.  The policy number.
+
+7.  The name and address of a fourth insurance company.
+Enter the name of a fourth insurance company that has issued a policy to be transferred to the trust, if any.
+8.  The policy number.
+Upon completion, you may edit this form to include additional insurance companies and policies if desired.
+9.  The name of the first witness.
+
+10.  The name of the second witness.
+
+11.  The name of the trustor.
+Enter the name of the trustor as it appears in the trust document.
+12.  The name of the trustee.
+Enter the name of the trustee as it appears in the trust document.

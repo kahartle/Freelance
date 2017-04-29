@@ -1,0 +1,39 @@
+Key text file 2_3
+1.  Name of the Corporation.
+Enter the name as it appears in your Articles of Incorporation.
+2.  The address where the organizational meeting was held.
+You may hold these meetings wherever you wish, as long as all directors are notified in a timely manner.
+3. The State where the meeting was held.
+
+4.  Name of a director present at the organizational meeting  (this question will be asked two more times)
+A majority of the directors is required at the organizational meeting in order to conduct business.
+5.  Name of a director present at the organizational meeting.
+
+6.  Name of a director present at the organizational meeting.
+
+7.  Name of person chosen as Chair of the meeting.
+A motion to appoint a chair should be made, seconded, and adopted.
+8.  Name of the person chosen as Secretary of the meeting. 
+A motion to appoint a Secretary should be made, seconded, and adopted. Both the Chairman and the Secretary can be the same person.
+9.  Name of the State where the Corporation is incorporated.
+Refer to your Articles of Incorporation.
+10.  Name of the President of the Corporation. 
+Enter the full name of the President of the Corporation as determined at the organizational meeting.
+11.  Name of the Secretary of the Corporation. 
+Enter the full name of the Secretary of the Corporation as determined at the organizational meeting.
+12.  Amount Corporation will reimburse employees for use of personal passenger vehicle used for corporate business.
+Enter number of cents as a whole number.
+13.  Amount Corporation will reimburse employees for use of personal light truck used for corporate business.
+Enter number of cents as a whole number.
+14.  Amount Corporation will reimburse employees for use of personal heavy truck, tractor or other heavy equipment used for corporate business.
+Enter number of cents as a whole number.
+15.  Amount Corporation will pay employees as a per diem allowance when the employee is away from home overnight on corporate business.
+Enter the whole number dollar amount, omitting the $ sign.
+16.  Minimum age to be a covered employee of the employee welfare plan  (e.g. 21)
+Generally, you must be 21 or older to qualify for employee benefits.
+17. Minimum number of years an employee must be with company in order to qualify for benefits
+Your answer will depend on your objectives: The fewer number of years you specify, the faster people will qualify and the more you will pay out in benefits. The longer the waiting period, the longer you will have to wait to qualify. You be the judge.
+18. Maximum dollar amount payable by the corporation to any one employee during a year for medical and dental benefits under the plan.
+This will fix your costs. Choose a realistic figure.
+19. The amount of a corporate death benefit payable to the spouse or dependents of a deceased employee, expressed as a percentage of salary (omit the % sign), and not to exceed $5,000.
+Remember, $5,000 is the maximum your corporation can pay, but don't confuse this with the fact that a corporation can provide $50,000 of group life insurance coverage for free to its employees.

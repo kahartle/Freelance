@@ -1,0 +1,74 @@
+﻿Key text file 3_12
+1.  The name of the first spouse.
+
+2.  The name of the second spouse.
+
+3.  The name of the Family Trust.
+
+4.  The date of the Family Trust.
+
+5.  Description of primary residence.
+Enter the address of the primary residence.  If you are transferring title to real estate or any other asset to some other entity (e.g., limited partnership, LLC), do not enter those items in this document and enter your interest in the ownership entity (e.g., limited partnership, LLC) beginning with question 29. Don’t forget to deed any real estate to be owned by the trust to the trust.
+6.  The county where the primary residence is located.
+
+7.  The state where the primary residence is located.
+
+8.  Ownership of primary residence.
+If the home is to be the “separate property” of either spouse, enter the spouse’s name here.
+9.  Description of other real estate.
+
+10.  Ownership of other real estate.
+If the real estate is to be the “separate property” of either spouse, enter the spouse’s name here.
+11.  Description of other real estate.
+
+12.  Ownership of other real estate.
+If the real estate is to be the “separate property” of either spouse, enter the spouse’s name here. Don’t forget to deed the real estate to the trust.
+13.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+14.  Ownership of bank account.
+If the bank account is to be the “separate property” of either spouse, enter the spouse’s name here.
+15.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+16.  Ownership of bank account.
+If the bank account is to be the “separate property” of either spouse, enter the spouse’s name here.
+17.  Description of bank account.
+The name of the financial institution where the account is maintained and the account number.
+18.  Ownership of bank account.
+If the bank account is to be the “separate property” of either spouse, enter the spouse’s name here.
+19.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+20.  Ownership of securities.
+If the securities are to be the “separate property” of either spouse, enter the spouse’s name here.
+21.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+22.  Ownership of securities.
+If the securities are to be the “separate property” of either spouse, enter the spouse’s name here.
+23.  Description of securities.
+The name of the company, type of security, number of shares held, certificate number etc.
+24.  Ownership of securities.
+If the securities are to be the “separate property” of either spouse, enter the spouse’s name here.
+25.  Description of vehicle.
+The make, model, year, and VIN of the vehicle.
+26.  Ownership of vehicle.
+If the vehicle is to be the “separate property” of either spouse, enter the spouse’s name here.
+27.  Description of vehicle.
+The make, model, year, and VIN of the vehicle.
+28.  Ownership of vehicle.
+If the vehicle is to be the “separate property” of either spouse, enter the spouse’s name here.
+29.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+30.  Ownership of asset.
+If the asset is to be the “separate property” of either spouse, enter the spouse’s name here.
+31.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+32.  Ownership of asset.
+If the asset is to be the “separate property” of either spouse, enter the spouse’s name here.
+33.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+34.  Ownership of asset.
+If the asset is to be the “separate property” of either spouse, enter the spouse’s name here.
+35.  Description of another asset.
+This space is provided to identify miscellaneous assets that do not fall into the previous categories. You may enter ownership in other types of entities here.
+36.  Ownership of asset.
+If the asset is to be the “separate property” of either spouse, enter the spouse’s name here.
+37.  The date of this Schedule A.

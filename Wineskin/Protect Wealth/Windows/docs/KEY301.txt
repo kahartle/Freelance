@@ -1,0 +1,21 @@
+Key Text File 3_1
+1.  The name of the Living Trust.
+Enter the complete name of your Living Trust (e.g., "The John Smith Living Trust").
+2.  The effective date of your trust.
+
+3.  Your name (as Grantor and Trustee).
+
+4.  The state whose laws will apply to the trust.
+
+5.  The name of the first child.
+For this and questions 6-7, you should list each child, one under each question.  Be sure to include any children that have died, leaving children of their own.  This form assumes that you desire to leave your estate to your children equally, (including the equal share of a deceased child to that child's children equally).  If this is not your intention, some modifications should be made.  Check with your advisor.
+6.  The name of the second child.
+
+7.  The name of the third child
+If you have more than three children, you may, upon completion, edit this form to include additional children if you desire.
+8.  The name of the first person(s) who will act as trustee of your Living Trust upon your death or incapacitation.
+This may be one person, or multiple people as co-trustees.
+9.  The name of your second preference to act as trustee of your Living Trust. 
+Enter the name of your second preference to act as trustee (or co-trustees) of your Living Trust after your death, in the event the trustee(s) identified as your first preference are either unwilling or unable to do so.
+10.  The name of your third preference to act as trustee of your Living Trust.
+Enter the  name of your third preference to act as trustee (or co-trustees) of your Living Trust, in the event the trustee(s) identified as your second preference are either unwilling or unable to do so.

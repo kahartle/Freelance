@@ -1,0 +1,27 @@
+Key text file 1_15
+1.  The name of the Limited Liability Company.
+
+2.  The name of the first member.
+Enter the name of the first member who has contributed capital to the LLC.
+3.  The dollar value of capital contributed by the first member.
+
+4.  The percentage of capital contributed by the first member.
+Enter the percentage that the first member's contribution bears to the whole.
+5.  The name of the second member.
+Enter the name of the second member who has contributed capital to the LLC.
+6.  The dollar value of capital contributed by the second member.
+
+7.  The percentage of capital contributed by the second member.
+Enter the percentage that the second member's contribution bears to the whole.
+8.  The name of the third member.
+Enter the name of the third member who has contributed capital to the LLC.
+9.  The dollar value of capital contributed by the third member.
+
+10.  The percentage of capital contributed by the third member.
+Enter the percentage that the third member's contribution bears to the whole.
+11.  The name of the fourth member.
+Enter the name of the fourth member who has contributed capital to the LLC.
+12.  The dollar value of capital contributed by the fourth member.
+
+13.  The percentage of capital contributed by the fourth member.
+Enter the percentage that the fourth member's contribution bears to the whole. After completion, this form may be edited to include contribution information for additional members included in the Operating Agreement.

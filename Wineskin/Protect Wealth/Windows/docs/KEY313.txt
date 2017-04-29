@@ -1,0 +1,21 @@
+3_13 Key text 
+1.  Name of husband;<1x1x3> <1x1x4> <1x1x5> 
+Enter name of husband as it appears on the property deed. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+2.  Name of wife;<2x1x3> <2x1x4> <2x1x5>
+Enter name of wife as it appears on the property deed. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+3.  The name of husband and wife's Family Trust.
+Enter the name of the Family Trust as it appears in the trust documents.
+4.  The county where the property is located.
+
+5.  The state where the property is located.
+
+6.  The complete legal description of the property.
+Enter the legal description of the property.  The legal description should appear on your current deed.
+7.  The name of the first witness.
+Assure that the first witness signs the document.
+8.  The name of the second witness.
+Assure that the second witness signs the document.
+9.  Name of the first trustee of the Family Trust. 
+This is usually the husband.
+10. Name of the second trustee of the Family Trust.
+This is usually the wife.

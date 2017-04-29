@@ -1,0 +1,13 @@
+Key text file 3_9A
+1. The name of the Grantor.
+
+2. The name of the living trust.
+
+3. The date of the living trust.
+
+4. The name of the first successor trustee of the trust.
+
+5. The date of this Certification of Trust.
+
+6. The state whose laws will apply to the living trust.
+

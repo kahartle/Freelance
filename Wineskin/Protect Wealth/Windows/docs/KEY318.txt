@@ -1,0 +1,15 @@
+Key text file 3_18
+1.  The name of  Trustor;<1x1x3> <1x1x4> <1x1x5>
+Enter the full legal name of the Trustor.  The "Trustor" is the person who created the trust, which in this case is probably the husband. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+2.  The birthdate of the Trustor.
+
+3.  The place of birth of the Trustor.
+
+4.  The social security number of the Trustor.
+
+5.  The military service number (if applicable) of the Trustor.
+
+6.  List of any funeral instructions you may have.
+List in detail any specific procedures you wish to be carried out at your funeral.
+7.  Any other instructions that you would like to be carried out upon your death.
+List in detail any other specific procedures you would like to be carried out upon your death (e.g., casket instructions, place of burial or funeral, etc.).

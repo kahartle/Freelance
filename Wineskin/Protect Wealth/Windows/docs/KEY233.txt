@@ -1,0 +1,21 @@
+Key text file 2_33
+1.  The name of the employer.
+Enter the name of the corporation as it appears in the Articles of Incorporation (e.g., "XYZ, P.C.").
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., Nevada Professional C, California Professional S).  The word "Corporation" is automatically inserted after the description you provide.  Note: By default, all corporations are C corporations unless a separate election is filed with the IRS.
+3.  The corporation's principal place of business address.
+Enter the complete address (city, state, zip code) of the corporation's principal place of business.
+4.  The type of business services provided by the corporation.
+Describe the type of business services provided by the corporation (e.g., "medical services").
+5.  Any confidential information that is not to be disclosed by the employee.
+Enter in detail any specific information the employee must keep confidential. A general description of information to be kept confidential is contained in this document by default.  The space is provided for any specific issues you wish to incorporate in the Agreement.
+6.  The state where the principal place of business is located.
+
+7.  The county where the principal place of business is located.
+
+8.  If the employee is salaried, the amount of the annual base salary to be paid to the employee.
+Omit the "$" sign.
+9.  The number of weeks of annual vacation time the employee is entitled to.
+
+10. If the employee is paid on an hourly basis, the hourly rate to be paid to the employee.
+Omit the "$" sign.

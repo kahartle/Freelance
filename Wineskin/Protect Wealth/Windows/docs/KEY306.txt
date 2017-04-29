@@ -1,0 +1,23 @@
+Key text file 3_6
+1.  The name of the person whose last will and testament this is; <1x1x3> <1x1x4> <1x1x5>
+Enter the full legal name. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+2.  The name of the the Living Trust of the person whose last will and testament this is.
+Enter the name as it appears in the trust documents.
+3.  The name of your first preference to be your Personal Representative.
+Enter the full name of your first preference to be your Personal Representative following your death. This person will have the responsibility to settle your estate, and is often the same as the trustee you have appointed to direct your Living Trust following your death.
+4.  The name of your second preference to be your Personal Representative.
+Enter the full name of your second preference to be your Personal Representative following your death. In the event your first preference is either unwilling or anable to act in that capacity, this person will have the responsibility to settle your estate, and is often the same as the next trustee appointed to direct your Living Trust following your death.
+5.  The name of your attorney, or other individual, who should be notified in the event you become seriously ill or incapacitated.
+
+6.  The name(s) of the person(s) who are your first preference to become legal guardian(s) of your minor child(ren) upon your death.
+If you have minor children, enter the full name(s) of your first preference to be guardian(s) of your child(ren) following your death.
+7.  The name(s) of the person(s) who are your second preference to become legal guardian(s) of your minor child(ren) upon your death, in the event your first preference is either unwilling or unable to do so.
+If you have minor children, enter the full name(s) of your second preference to be guardian(s) of your child(ren) following your death.
+8.  The first witness to your Last Will and Testament.
+Be sure to have the witness sign the document.
+9.  The second witness to your Last Will and Testaments.
+Be sure to have the witness sign the document.
+10.  The address of the first witness.
+Select independent witnesses who can attest that the document reflects the maker's wishes. Witnesses must be of legal age and should not have an interest in receiving your property after your death. They should not benefit from your death in any way (i.e.: not an heir to the estate, not financially responsible for your health care bills, not responsible for raising your children, etc.).  They should also not be persons affiliated with a community care or residential care facility.  Check your state requirements – a few states require 3 witnesses.
+11.  The address of the second witness.
+Select independent witnesses who can attest that the document reflects the maker's wishes. Witnesses must be of legal age and should not have an interest in receiving your property after your death. They should not benefit from your death in any way (i.e.: not an heir to the estate, not financially responsible for your health care bills, not responsible for raising your children, etc.).  They should also not be persons affiliated with a community care or residential care facility.  Check your state requirements – a few states require 3 witnesses.

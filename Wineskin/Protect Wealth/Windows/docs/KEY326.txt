@@ -1,0 +1,11 @@
+Key text file 3_26
+1.  The name of the Irrevocable Life Insurance Trust.
+Enter the name of the trust.  The software will automatically insert "Irrevocable Life Insurance Trust" after the name.  (E.g., "The John Smith" Irrevocable Life Insurance Trust).
+2.  The name of the trustee.
+Enter the full name of the person you are appointing as trustee of the trust. Separate names of successor trustees by commas, in order of preference. Generally, the trustee should be independent, not a blood relative or spouse, and is often an attorney, CPA, or the trust department of your bank. If you are unsure, check with your advisor.
+3.  The name of the first witness.
+
+4.  The name of the second witness.
+
+5.  The name of the trustor.
+Enter the name of the person creating the trust.  This is usually the person who owns the policy being transferred to the trust.

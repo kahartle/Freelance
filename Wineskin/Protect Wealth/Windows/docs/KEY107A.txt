@@ -1,0 +1,15 @@
+1_7A Key text file
+1.  Name of Seller.
+Full legal name of the person who is granting the option to purchase an interest in a Limited Partnership. Note that only Limited Partner’s interests may be granted under this agreement, not a general partner’s interest of the partnership. 
+2.  Name of Buyer.
+Full legal name of the person purchasing the option to buy an interest in a Limited Partnership.  
+3.  Name of the Limited Partnership.
+Enter the name of the Limited Partnership, including the abbreviation, “LP”. 
+4.  Percentage of Interest being granted. 
+Enter then percentage interest in the LLC being granted by the seller.  Enter the number only with a percent symbol. 
+5.  Option Price
+Enter the amount charged to purchase this option.  This is not the Purchase Price if the option is exercised, it the price charged for the right to hold an option.  Enter a dollar amount without the dollar sign.   
+6.  Purchase Price
+The purchase price of the option in US dollars.  Enter the number only without a dollar sign. 
+7.  State
+Name the  state where the contract is being signed and where the governing laws will apply. 

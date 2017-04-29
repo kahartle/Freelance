@@ -1,0 +1,23 @@
+Key text file 2_34
+1.  The name of the Charitable Remainder Trust (CRT).
+Enter the name you have selected for the CRT. This form will automatically insert the words "Charitable Remainder Unitrust" following the name you have selected.  (E.g., If you enter John Smith, the form will read "John Smith Charitable Remainder Unitrust.")
+2.  The "donor" or person contributing assets to the CRT, also known as the trustor.
+Enter the full name of the person contributing assets to the CRT.
+3.  The initial trustee of the CRT.
+This may be the donor, a beneficiary, any other qualified person, or the trust department of your financial institution. If you are unsure, check with your advisor.
+4.  The "recipient" of the income benefit from the CRT, also known as the beneficiary.
+Enter the full name of the person who will receive the annual income benefit from the CRT.
+5.  The amount, as a percentage of the dollar value of the assets in the CRT as determined annually, that the CRT will pay to the beneficiary.
+The IRS Code authorizes an amount no less than 5% and no greater than 50%.  This form establishes a lifetime benefit payable to the recipient. The actual percentage is typically based on the age of the recipient when the CRT is formed, and the expected life span of the recipient based on statistical averages. If the percentage selected is too high, the CRT assets may be depleted during the lifetime of the recipient.  If your intention is to select a higher percentage, the CRT may require a term less than the recipient's expected life span and modifications to this form would be necessary.  Check with your advisor if you are uncertain. 
+6.  The name of the charitable organization that will receive the remaining trust assets at the termination of the CRT.
+If you wish to retain the right to modify the charitable beneficiary, be aware that certain amendments to the trust documents would be required. Check with your advisor if you are uncertain.
+7.  The state whose laws will govern the operation of the CRT.
+
+8.  The name of the first witness.
+Assure that the witness signs the document.
+9.  The name of the second witness.
+Assure that the witness signs the document.
+10. The name of the third witness.
+Assure that the witness signs the document.
+11. The assets the donor is contributing to the CRT.
+List in detail the assets the donor is contributing to the CRT. 

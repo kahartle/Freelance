@@ -1,0 +1,37 @@
+key 1-1.text
+1.  The name of the Limited Partnership.
+This is often the name of the person or family forming the Limited Partnership (e.g., John Smith Family Limited Partnership) but can be any name that is available for use in the state of formation. State law typically requires that the name include "Limited Partnership," or some abbreviation such as "LP," "Limited," or "Ltd."
+2.  The state where you are establishing your Limited Partnership.
+
+3.  The purpose of the Limited Partnership.
+Enter the purpose for which you are establishing your Limited Partnership. Most states allow "Any lawful purpose."
+4.  The name of the first General Partner of the Limited Partnership.
+This can be an individual (e.g., husband or wife, or both) or another entity such as a corporation or LLC. Your Limited Partnership must have at least one general partner, but may have more than one if appropriate.
+5.  The name of the second General Partner of the Limited Partnership, if applicable.
+
+6.  The address of the first General Partner of the Limited Partnership.
+
+7.  The address of the second General Partner of the Limited Partnership, if applicable.
+After completion, you may edit this form to list the names and addresses of additional general partners if desired.
+8.  The principal address of the Limited Partnership.
+Enter the principal address of the Limited Partnership.
+9.  The name of the registered agent of the Limited Partnership.
+This may be you or some other individual or entity. The registered agent is the person who will be served with court papers in the event your Limited Partnership is sued.  The registered agent must have an address in the state where you file your Limited Partnership, which cannot be a PO Box.
+10.  The address of the registered agent of the Limited Partnership.
+This must be a physical address in the state of formation.
+11.  The name of the first Limited Partner.
+Enter the full name. Your Limited Partnership must have at least one Limited Partner, but may have more than one if desired. Oftentimes, Limited Partnership interests may be gifted to children. The decision of whom to list as Limited Partners should typically be made as part of the overall estate plan.
+12.  The name of the second Limited Partner.
+Enter the full name.  
+13.  The name of the third Limited Partner.
+Enter the full name.
+14.  The name of the fourth Limited Partner.  
+Enter the full name. After completion, you may edit this form to list additional Limited Partners if desired.
+15.  The address of the first Limited Partner.
+Enter the full address.
+16.  The address of the second Limited Partner.
+Enter the full address.
+17.  The address of the third Limited Partner.
+Enter the full address.
+18.  The address of the fourth Limited Partner.
+Enter the full address. After completion, you may edit this form to list the addresses of additional Limited Partners if desired.

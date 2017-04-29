@@ -1,0 +1,15 @@
+Key text file 1_24B
+1.  The name of the limited liability company as it appears in the Articles of Organization.
+
+
+2.  The effective date of the LLC.
+  
+3.  The state where you are forming the LLC.
+ 
+4.  The principal address of the LLC.
+
+
+5.  The manager of the LLC.
+This may be one or more individuals.     
+6.  The member of the LLC.
+This is your IRA.  The typical manner of designation is as follows, assuming the name of “ABC Trust Co.” as your self-directed IRA custodian and John Smith as the IRA owner’s name: ABC Trust Co., Custodian FBO John Smith.

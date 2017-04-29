@@ -1,0 +1,5 @@
+Key text file 3_23
+1.  The name of the first person whose property list this is;<1x1x3> <1x1x4> <1x1x5>
+Enter the full legal name. If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+2.  The name of the second person whose property list this is;<2x1x3> <2x1x4> <2x1x5>
+Enter the full legal name.

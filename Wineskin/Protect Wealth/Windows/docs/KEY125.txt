@@ -1,0 +1,27 @@
+Key text file 1_25
+1.  The name of the Land Trust.
+
+2.  The name of the Trustee.
+Enter the full name of the trustee.  This may be any individual, including an attorney or accountant, a trust officer, or an entity such as a corporation. The signature lines, drafted assuming the appointment of a corporate trustee, may be modified if a corporation will not act as trustee.
+3.  The title of the trustee.   
+Enter the title of the trustee, for example: attorney, trust officer, accountant, corporation etc.
+4.  The city and state where the trustee maintains its principal place of business.
+
+5.  The county where property you are transferring to the Land Trust is located.
+
+6.  The state where property you are transferring to the Land Trust is located.
+
+7.  The legal description of the property you are transferring to the Land Trust.
+
+8.  The street address of the property you are transferring to the Land Trust.  
+
+9.  The names of the beneficiary or beneficiaries of the Land Trust.
+Separate by comma if there is more than one beneficiary.
+10.  The state whose laws will govern the Land Trust.
+
+11.  The name of a beneficiary or other person who has authority to authorize the trustee to take action regarding the real estate.
+This person will have authority to issue instructions to the trustee on behalf of all beneficiaries.
+12.  The amount the trustee will initially be paid at the inception of the Land Trust.
+Enter total dollar amount.  This should be an amount that is reasonable and customary.  
+13.  The amount to be paid to the trustee each year.
+Enter total dollar amount.  This should be an amount that is reasonable and customary.

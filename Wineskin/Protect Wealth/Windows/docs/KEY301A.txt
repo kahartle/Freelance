@@ -1,0 +1,39 @@
+Key Text File 3_1A
+1.  The name of the Living Trust.
+Enter the complete name of your Living Trust (e.g., "The John Smith Living Trust").
+2.  The effective date of your trust.
+
+3.  Your name (as Grantor and Trustee).
+
+4.  The state whose laws will apply to the trust.
+
+5.  The name of the first person(s) who will act as trustee of your Living Trust upon your death or incapacitation.
+Enter the full name of your first preference to act as trustee of your Living Trust after your death, in the event the trustee(s) identified as your first preference are either unwilling or unable to do so.
+6.  The name of your second preference to act as trustee of your Living Trust. 
+Enter the full name of your second preference to act as trustee of your Living Trust after your death, in the event the trustee(s) identified as your first preference are either unwilling or unable to do so.
+7.  The name of your third preference to act as trustee of your Living Trust.
+Enter the full name of your third preference to act as trustee of your Living Trust, in the event the trustee(s) identified as your second preference are either unwilling or unable to do so.
+8.  The name of the first beneficiary of the Trust.
+Please note: Unlike the trust form for equal distribution to children, including after-born children, this form benefits only those beneficiaries expressly named in the trust document (and their descendants).  Reviewing your trust documents in light of changing circumstances, and making necessary modifications over time, is essential to avoid disinheriting otherwise intended beneficiaries.
+9.  The date of birth of the first beneficiary.
+
+10.  The social security number or EIN number of the first beneficiary.
+
+11.  The percentage share of the Trust Estate given to first beneficiary.
+Omit the % sign.
+12.  The name of the second beneficiary of the Trust.
+
+13. The date of birth of the second beneficiary.
+
+14.  The social security number or EIN number of the second beneficiary.
+
+15.  The percentage share of the Trust Estate given to the second beneficiary.
+Omit the % sign.
+16.  The name of the third beneficiary of the Trust.
+
+17.  The date of birth of the third beneficiary.
+
+18.  The social security number or EIN number of the third beneficiary.
+
+19.  The percentage share of the Trust Estate given to the third beneficiary.
+Omit the % sign. If you desire to include more than three beneficiaries, you may edit this form to add additional beneficiaries in your word processor prior to printing.

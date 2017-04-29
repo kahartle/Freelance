@@ -1,0 +1,24 @@
+Key text file 2_31
+1.  The name of the corporation.
+Enter the name you have selected for your corporation.  This can be any name that is available for use in the state of formation.  State law typically requires that the name include "Professional Corporation," or some abbreviation such as "P.C.," and this program will automatically insert "P.C." after the corporation name you enter. After completion, you may edit this to conform with your preference if you desire.  
+2.  The type of profession.
+Enter the type of profession for which you are forming a Professional Corporation (e.g., medical practice)
+3.  The state where you are establishing your corporation.
+Most states require that a professional corporation be formed in the state where your practice is located. Check the particular law of your state if you have any questions.
+4.  The name of the corporation's sole managing director, officer, shareholder and registered agent.
+
+5.  The address of the corporation's sole managing director, officer, shareholder and registered agent.
+Enter street, city, state, and Zip code.
+6.  The address where the organizational meeting was held.
+
+7.  The state where the Organizational Meeting was held.
+
+8.  The Chair of the Organizational Meeting.
+The name of the person chosen as the chair of the meeting.
+9.  The name of the Secretary of the Corporation.
+
+10.  The fiscal calendar year of the corporation.  
+
+11.  The amount of yearly salary to be paid to the Managing Director.
+
+12.  The amount per month that will be paid to the Managing Director.

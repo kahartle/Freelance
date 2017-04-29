@@ -1,0 +1,11 @@
+Key text file 2_16
+1.  The name of the Corporation.
+Enter the name of the Corporation as it appears in the Articles of Incorporation.
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., C, S, Nevada C, Nevada S, etc.)
+3.  The name of the business from which the corporation is acquiring assets.
+Enter the name of the business that is selling assets to the corporation.
+4.  The name of the owner of the business that is selling assets to the corporation.
+Enter the name of the owner of the business that is selling assets to the corporation.
+5.  The name of the Secretary.
+Be sure to have the Secretary sign the form also.

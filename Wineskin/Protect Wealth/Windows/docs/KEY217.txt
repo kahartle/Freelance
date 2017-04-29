@@ -1,0 +1,9 @@
+Key text file 2_17
+1.  The name of the Corporation.
+Enter the name of the Corporation as it appears in the Articles of Incorporation.
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., C, S, Nevada C, Nevada S, etc.)
+3.  The name of the general partner.
+Enter the full name of the newly appointed general partner. This is the corporation authorized by this resolution to act as general partner.
+4.  The name of the Secretary.
+Be sure to have the Secretary sign the form.

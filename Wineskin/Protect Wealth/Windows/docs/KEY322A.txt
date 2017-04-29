@@ -1,0 +1,14 @@
+Key text file 3_22A
+1.  The name of the first Grantor.
+Spouse #1
+2.  The name of the second Grantor.
+Spouse #2
+3.  The name of the Familyt Trust.
+Enter the name of the Family Trust as it appears in the trust document.
+4.  The date of the Family Trust.
+
+5.  The name of the first successor trustee as contained in your Family Trust.
+
+6.  The date of this Certification of Trust.
+
+7.  The state whose laws apply to your living trust.

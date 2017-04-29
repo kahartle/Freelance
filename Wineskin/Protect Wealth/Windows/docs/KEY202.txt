@@ -1,0 +1,7 @@
+Key text file 2_2
+1.  The name of the Corporation.
+Enter the name of the Corporation as it appears in the Articles of Incorporation.
+2.  The state where the Corporation is established. 
+
+3.  The name of the secretary of the corporation.
+Enter the full name of the secretary and also have the secretary sign the form.

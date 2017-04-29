@@ -1,0 +1,15 @@
+Key text file 2_14
+1.  The name of the Corporation.
+Enter the name of the corporation as it appears in the Articles of Incorporation.
+2.  The type of Corporation.
+Enter a description of the type of corporation (e.g., C, S, Nevada C, Nevada S, etc.)
+3.  The name of the financial institution where the corporation is opening the account.
+Enter the name of the bank or financial institution where the bank account will be established.
+4.  The name of the first person who is a designated signer for this account.
+The name of an individual authorized by the corporation to sign for the account.
+5.  The name of the second person who is a designated signer for this account.
+The name of an individual authorized by the corporation to sign for the account.
+6.  The name of the third person who is a designated signer for this account.
+The name of an individual authorized by the corporation to sign for the account.  Upon completion, you may edit this form to include additional signers if you desire.
+7.  The name of the Secretary.
+Be sure to have the Secretary sign the form also.

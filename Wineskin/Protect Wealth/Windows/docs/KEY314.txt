@@ -1,0 +1,18 @@
+3_14 Key text file
+1.  The name of the bank or financial institution to whom you are sending the letter.
+
+2.  The name of the person at the bank or financial institution you are sending the letter to.
+If you are unsure of who to send the letter to, you can leave this field blank.
+3.  The date of the letter.
+
+4.  The name of the husband;<1x1x3> <1x1x4> <1x1x5>
+If you have previously filled out your profile, and the response to the question has been auto-generated, you may use the auto response or you may delete it and enter your response manually if required by the circumstances.
+5.  Your checking account number(s) at this bank.
+Enter the complete checking account number(s) for accounts you wish to transfer to your Family Trust.
+6. Your savings account number(s) at this bank.
+Enter the complete savings account number(s) for accounts you wish to transfer to your Family Trust.
+7.  Your certificate of deposit number(s) at this bank.
+Enter the complete certificate of deposit number(s) for accounts you wish to transfer to your Family Trust.
+8.  The name of the Family Trust.
+Enter the name of your Family Trust as it appears in the trust documents.
+9.  The name of the Wife;<2x1x3> <2x1x4> <2x1x5>
