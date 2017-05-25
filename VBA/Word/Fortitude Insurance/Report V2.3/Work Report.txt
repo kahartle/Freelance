@@ -1,0 +1,54 @@
+Fortitude Insurance
+
+* Loss History
+ - All start on a new pages except for the following sections:
+ 	Cyber Insurance
+ 	Tax Audit
+ 	Other
+ 	
+* Years based on Financial Year
+ - All years are based on the financial Year
+ - A From date of 30 April 2017 generates 
+ 	Premium Summary
+ 		2015 to 2016
+ 		2016 to 2017
+ 		2017 to 2018
+ 	Business Insurance 
+ 		Insurer Terms
+ 			2016 to 2017
+ 			2017 to 2018
+ 		Loss History
+ 			2013 to 2014
+ 			2014 to 2015
+ 			2015 to 2016
+ 			2016 to 2017
+ 			2017 to 2018
+ - A From date of 1 July 2017 generates 
+ 	Premium Summary
+ 		2016 to 2017
+ 		2017 to 2018
+ 		2018 to 2019
+ 	Business Insurance
+ 		Insurer Terms
+ 			2017 to 2018
+ 			2018 to 2019
+ 		Loss History
+ 			2014 to 2015
+ 			2015 to 2016
+ 			2016 to 2017
+ 			2017 to 2018
+ 			2018 to 2019
+ 			
+* Appendix
+ - Added sections that match each of the ticked Insurance Sections
+ 
+* Bugs
+ - Fixed a bug when ALL Insurance Sections are selected that resulted in a macro error
+ 
+* Reported issues
+The following issues could not be reproduced
+ - Arbel Eyvas comment at Index - Missing sections under Coverage Summary ( 1. Cyber Insurance, 2. Tax Audit, 3. Other )
+ 	* All Insurance Sections are currently in the report and listes in the Index
+ 	
+ - Arbel Eyvas comment at Executive Summary - Client Name and list of Risk Exposures
+	* List is being generated
