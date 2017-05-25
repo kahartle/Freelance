@@ -7,6 +7,15 @@
 ~$*.ppt*
 *.xlk
 
+## Protect Wealth
+Wineskin/Protect Wealth/Windows/Xtras/
+Wineskin/Protect Wealth/Reference/Archive/
+Wineskin/Protect Wealth/Reference/docs/
+Wineskin/Protect Wealth/Reference/*.dmg
+Wineskin/Protect Wealth/ISO/
+Wineskin/Protect Wealth/*.dmg
+Wineskin/Protect Wealth/*.iso
+
 
 ## C Code
 # Prerequisites
@@ -61,3 +70,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
