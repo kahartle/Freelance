@@ -163,9 +163,6 @@ int stage2_calculate_score(Tile display[DISPLAY_ROWS][DISPLAY_COLS])
 	for (int size = 3; size <= 5; size++)
 	{
 		sprintf(filename, "words%d.txt", size);
-		
-		printf(" - File: %s\n", filename);
-		
 		result = readfile(size, filename, display);
 		printf("Words of length %d = %d\n", size, result);
 		total += result;
