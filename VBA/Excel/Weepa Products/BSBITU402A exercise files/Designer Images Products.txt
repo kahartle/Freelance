@@ -1,0 +1,25 @@
+1.00,"Waterford Wine Glasses","Waterford Ltd","Glassware",$24.00,150.00,0.00,20.00
+2.00,"Waterford Champagne Glasses","Waterford Ltd","Glassware",$22.00,250.00,0.00,50.00
+3.00,"Safi Handpainted Dinnerware (20pc)","Devine Dinnerware","Dinnerware",$250.00,50.00,0.00,25.00
+4.00,"Munich 44 Piece cutlery set","Devine Dinnerware","Dinnerware",$199.00,25.00,20.00,25.00
+5.00,"Crystal Highball Glasses","Great Glassware","Glassware",$19.50,350.00,0.00,50.00
+6.00,"Aluminium Serveware","Devine Dinnerware","Serveware",$34.95,20.00,30.00,20.00
+7.00,"Crystal Shot Glasses","Great Glassware","Glassware",$15.00,40.00,0.00,0.00
+8.00,"Crystal Magarita Glasses","Great Glassware","Glassware",$29.50,180.00,0.00,20.00
+9.00,"Picnic Baskets","Romantic Ideas","Oddities",$55.00,30.00,0.00,0.00
+10.00,"CCF Basket 25cm Oval baker","Devine Dinnerware","Ovenware",$45.60,10.00,50.00,0.00
+11.00,"CCF Basket 28cm Oval baker","Devine Dinnerware","Ovenware",$64.80,12.00,25.00,12.00
+12.00,"Sasaki Wine Glasses","Waterford Ltd","Glassware",$39.00,245.00,0.00,20.00
+13.00,"Les Traiteurs 28cm Flan dish","Devine Dinnerware","Ovenware",$35.90,28.00,10.00,30.00
+14.00,"Sasaki Champagne Glasses","Waterford Ltd","Glassware",$43.00,385.00,0.00,50.00
+15.00,"Crystal Water Glasses","Great Glassware","Glassware",$18.95,200.00,0.00,0.00
+16.00,"Orange Cube Candle 6""","Romantic Ideas","Tableware",$16.00,50.00,15.00,50.00
+17.00,"Gold Pillar Candle 4x4","Romantic Ideas","Tableware",$11.00,40.00,10.00,45.00
+18.00,"Austrian Crystal Wine Glasses","Waterford Ltd","Glassware",$18.00,175.00,0.00,0.00
+19.00,"White Gold Dinnerware 20pc","Waterford Ltd","Dinnerware",$99.95,100.00,0.00,0.00
+20.00,"Crystal Gold Rim Wine Glasses","Great Glassware","Glassware",$35.00,235.00,0.00,30.00
+21.00,"Crystal Gold Rim Sherry Glasses","Great Glassware","Glassware",$25.00,324.00,0.00,20.00
+22.00,"Oil Spray Pump","Devine Dinnerware","Oddities",$39.95,80.00,0.00,0.00
+23.00,"Palio Gold Champagne Flute","Romantic Ideas","Glassware",$28.95,50.00,0.00,20.00
+24.00,"Palio Gold White Wine Glasses","Romantic Ideas","Glassware",$32.95,50.00,0.00,20.00
+25.00,"Kim Cookware set","Devine Dinnerware","Cookware",$280.00,50.00,15.00,0.00

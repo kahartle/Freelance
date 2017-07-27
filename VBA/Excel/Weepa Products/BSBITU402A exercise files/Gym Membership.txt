@@ -1,0 +1,15 @@
+MembershipNo	Firstname	Lastname	Street	Suburb	State	PostCode	PhoneNumber	DateofBirth	Diet	PersonalTrainer	Classes	PaymentType	FeesPaid
+1	Gary	Jones	25 Brighton Road	St Kilda	VIC	3182	(03) 9534 8088	28/09/1972	EAS	Mary Underwood	"Aerobics, Weights, Walker, Cycles, Jogging"	Monthly	$55.00
+2	Mary	Fawkner	42 Crimera St	St Kilda	VIC	3182	(03) 9534 6677	17/11/1959	Low Fat	James Ryan	"Weights, Walker, Aerobics, Kick Boxing, Step II"	Quarterly	$160.00
+3	Blair	Elfman	189 Fitzroy Street	St Kilda	VIC	3182	(03) 9593 9977	5/12/1958	Carbo	James Ryan	"Kick Boxing, Aerobics, Cardio Mix Step II"	Monthly	$55.00
+4	Fraser	Jones	9 Duke Street	St Kilda	VIC	3182	(03) 9521 2425	18/04/1966	Low Fat	Sarah Tribiani	"Step II, Yoga, Total Body, Walker, Weights, Cycles"	Quarterly	$160.00
+5	Tanya	Daniels	1 Cowper Street	St Kilda	VIC	3182	(03) 9534 5592	18/10/1966	EAS	Mary Underwood	"Pilates, Yoga, Step II, Ballistic, Aero Step"	Yearly	$600.00
+6	Joanna	Church	67 Octavia Street	St Kilda	VIC	3182	(03) 9534 8944	23/02/1975	EAS	Mary Underwood	"Step II, Yoga, Total Body, Body Sculpt, Step & Ball"	Quarterly	$160.00
+7	Dan	Henry	122 Alma Street	St Kilda East	VIC	3183	(03) 9527 7522	8/09/1962	Carbo	James Ryan	"Ballistics, Aero Step, Weights, Kick Boxing"	Monthly	$55.00
+8	Grant	Hamilton	7 Mitford Street	St Kilda	VIC	3182	(03) 9537 0784	20/12/1978	Low Fat	Sarah Tribiani	"Step & Ball, Step II, Total Body, Body Sculpt, Weights"	Yearly	$600.00
+9	Madalaine	Ford	44 York Street	St Kilda West	VIC	3182	(03) 9534 2902	4/05/1955	EAS	James Ryan	"Cycle, Walker, Aero Step, Flexible Strength, Yoga"	Monthly	$55.00
+10	William	Jackson	18 Marine Parade	St Kilda	VIC	3182	(03) 9534 0055	31/10/1978	Carbo	Sarah Tribiani	"Cardio Funk, Circuit, Flexible Strength"	Monthly	$55.00
+11	Regan	Timberlan	7 Wando Grove	St Kilda East	VIC	3183	(03) 9527 4215	6/06/1966	EAS	James Ryan	"Flexible Strength, Total Body, Step & Sculpt, Cardio"	Quarterly	$160.00
+12	Harry	Taylor	76 Chapel Street	St Kilda	VIC	3182	(03) 9537 1266	28/02/1972	EAS	Sarah Tribiani	"Circuit, Flexible Strength, Kick Boxing, Weights"	Monthly	$55.00
+13	Michael	Butler	76 Alma Road	St Kilda West	VIC	3183	(03) 9521 5509	14/07/1965	EAS	James Ryan	"Aero Step, Flexible  Strength, Yoga, Pilates, Step II"	Monthly	$55.00
+14	Gordon	Baker	22 Marine Parade	St Kilda	VIC	3182	(03) 9534 0066	25/10/1977	Low Fat	Sarah Tribiani	"Circuit, Flexible Strength, Step & Ball, Total Body"	Monthly	$55.00

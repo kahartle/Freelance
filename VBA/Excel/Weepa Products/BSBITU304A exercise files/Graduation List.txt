@@ -1,0 +1,15 @@
+LastName	Name	Programme
+Hawkins	Helen	Computing
+Penman 	Christopher	Business
+Upton	Cameron James	Tourism
+Ting	Jinpei	Hospitality
+Peterson	Michael Thomas	Computing
+Kuznetsova	Valeria	Computing
+Sakaguchi	Kai	Computing
+Carpenter	Blythe	Hospitality
+Richardson	Jenna	Hospitality
+Shin	Se-in	Hospitality
+Paulson	Kate	Business
+Kang	Wing-Kui	Business
+Jenkins	Shannon	Business
+
